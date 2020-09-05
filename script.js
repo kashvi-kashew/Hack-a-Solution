@@ -5,7 +5,6 @@
 
             data: {
                 inputText: "",
-                groceryList: [],
             },
 
             
